@@ -7,6 +7,6 @@ Re
 My Text R
  # repoRea
 My T# repoReadm
-My Text R
+My Text
  # repoRea
 My T
