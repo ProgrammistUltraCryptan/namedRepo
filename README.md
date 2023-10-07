@@ -5,9 +5,7 @@ Re
                         await openedPaCwaitForSelector(selector
                         await page4.click(meelector
                         await page4.waiorNetworkIdle(l;
-                        await page4.click(elementSeIdl;
-                        await page4.waitForSelector(elementSelector4);
-StylishDemon        const profileId = data.iles[i        const prof# Stylish
+                        await page4.click(elementSeIdl;f# Stylish
 (resolve, 1500));browser.newPappsharde
 
 
