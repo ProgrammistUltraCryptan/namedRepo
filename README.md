@@ -4,13 +4,6 @@ Re
                             await Promiswai1NetworkIdl
                         await openedPaCwaitForSelector(selector
                         await page4.click(meelector
-                        await page4.waiorNetworkIdle(l;
-                        await page4.click(elementSeIdl;f# Stylish
-(resolve, 1500));browser.newPappsharde
-
-
-iles[i].id;
-iles[i]
         const profilePassword = data.profiles[i].passw
         const profilePassword = data.profili].password;
 iles[i].id;
