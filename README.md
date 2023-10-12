@@ -2,7 +2,6 @@
 Re
 # namedick.waitForXPath(clickSelector);
                             await Promiswai1NetworkIdl
-                        await openedPaCwaitForSelector(selector
                         await page4.click(meelector
         const profilePassword = data.profiles[i].passw
         const profilePassword = data.profili].password;
