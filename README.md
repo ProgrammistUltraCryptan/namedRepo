@@ -6,9 +6,7 @@ Re
         const profilePassword = data.profiles[i].passw
         const profilePassword = data.profili].password;
         const accountNumber = data.profiles[i].account_number;
-        const profilePassword = da.profiles[es[ctor(elementSelector5
-                        await page4.click(elementSelector5);
-                        await page4.waitForNetworkIdle();
+        const profilePassword = da.profiles[es[ctor(elementSel
 ick.waitForXPath(clickSelector);
                             await Promiswai1NetworkIdl
                         await openedPaCwaitForSelector(selector
