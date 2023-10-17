@@ -8,9 +8,6 @@ Re
         const accountNumber = data.profiles[i].account_number;
 
 iles[i].id;
-iles[i]
-        const accountNumber = data.profiles[i].account_number;
-        const profilePassword = da.profile[i].password;   
 count_number;= data.profiles[i]
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
