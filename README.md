@@ -8,8 +8,7 @@ Re
         const accountNumber = data.profiles[i].account_number;
 
 iles[i].id;
-count_number;= data.profiles[i]
-        const accountNumber = daa.profiles[i].account_number;
+count_number;= data.profiles[i]umber;
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profiles[es[i].password;        
                         await page4.waitForNetworkIdle(l
