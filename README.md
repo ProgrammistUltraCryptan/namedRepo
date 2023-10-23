@@ -1,7 +1,6 @@
 # named
 Reor;
-                            await Promiswai1NetworkIdl
-                        await page4.click(meelector
+                            await Proeelector
         const profilePassword = data.profiles[i].passw
         const profilePassword = data.profili].password;
         const accountNumber = data.profiles[i].account_number;
