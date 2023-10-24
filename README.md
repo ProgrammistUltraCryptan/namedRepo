@@ -1,8 +1,6 @@
 # named
 Reor;
-                            await Proeelector
-        const profilePassword = data.profiles[i].passw
-        const profilePassword = data.profili].password;
+                            await Proeelectossword;
         const accountNumber = data.profiles[i].account_number;
 
 iles[i].id;
