@@ -1,7 +1,6 @@
 # named
 Reor;
-                            await Proeelessword;
-        const accountNumber = data.profiles[i].account_nu
+                            await Profiles[i].account_nu
 
 iles[i].id;
 count_number;= data.profiles[i]umber;
