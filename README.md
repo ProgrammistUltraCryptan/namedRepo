@@ -1,2 +1,1 @@
-# named
-                        await page4.waitForNetworkIdle(l
+# namedaitForNetworkIdle(l
