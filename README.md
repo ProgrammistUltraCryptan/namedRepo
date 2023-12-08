@@ -1,10 +1,6 @@
 orNettForNettFoorNettForNettFoorNettFtForN
 
 
-LEASE
-
-        const accountNumber =ta.profiles[iccount_num
-                        await page4.waitFelementSelector5);
                         await page4.waitForNetworkIdle(
 les[iccount_num
                         await page4.waitFelementSelector5);
