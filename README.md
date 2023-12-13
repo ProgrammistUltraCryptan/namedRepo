@@ -1,7 +1,6 @@
 orNettForNettFoorNettForNettFoorNettFtForN
 
-or5);
-                        await page4.waitForNetworkIdle(
+or5);waitForNetworkIdle(
 iles[i].id;ount_n
 
 kittendry
