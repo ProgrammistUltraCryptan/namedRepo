@@ -2,8 +2,6 @@ orNettForNettFoorNettForNettFoorNettFtForN
         const accountNumber = data.profiles[i]
 umber;.profile[i].password;   
 count_number;= data.profiles[i]
-        const accour = sword = da.profiles[es[i].password;        
-                        await page4.click(elementSelector5);
                         await page4.waitForNetworkIdle();
 iles[i].id;ount_n
 
