@@ -1,5 +1,3 @@
 
-        const accountNu; 
-s const 
-= daa.nst 
+        c
 s const 
