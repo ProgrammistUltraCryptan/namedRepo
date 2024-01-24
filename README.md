@@ -1,3 +1,2 @@
 
         c
-s const 
