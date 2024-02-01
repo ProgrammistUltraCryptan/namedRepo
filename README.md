@@ -14,9 +14,6 @@ umber;.profile[i].passwors[i]s const
 = daa.nst 
 umber;.profile[i].passwors[i]s const 
 
-umber;.profile[i].passwors[i]s const 
-umber;.profile[i].passwors[i]s const 
-є
 ghgfgf
 s const 
 = daa.nst e(
